@@ -1,6 +1,6 @@
 # 🧑‍⚖️ AgentCourt_ES_Binder – Simulador de Juicio Oral Penal 🇲🇽
 
-[![Abrir en Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/openai-sandbox/AgentCourt_ES_Binder/HEAD?filepath=AgentCourt_ES_Binder_OK.ipynb)
+[![Abrir en Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nicohaddad/AgentCourt_ES_Binder/HEAD?filepath=AgentCourt_ES_Binder_OK.ipynb)
 
 Este simulador reproduce un juicio oral penal en español, usando agentes IA tipo juez, fiscal y defensa entrenados con GPT.
 
